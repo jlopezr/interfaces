@@ -1,0 +1,2 @@
+- Change Shape per Figure
+- Change exercise name to shape-manager.

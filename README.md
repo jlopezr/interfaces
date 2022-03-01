@@ -19,10 +19,6 @@ Each figure will have a `double getArea()` and `double getPerimeter()` methods t
 
 You will have to implement a `FigureManager` where you should be able to add different figures of different types and be able to calculate the sum of areas and perimeters of all the figures.
 
-
-// Figure, Circle, Rectangle, Square classes (or interfaces)
-// 
-
 ## 1. Create the Circle
 
 Implement the `Circle` and its area and perimeter methods.
